@@ -1,0 +1,29 @@
+.travel_mainDiv img
+{
+    width: 100%;
+}
+.travel_mainDiv hr
+{
+    width: 230px;
+}
+.movie_head
+{
+    font-size:20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display:inline-block;
+}
+.movie_head i
+{
+    float:right;
+}
+environment_li
+{
+    margin-top:13px;
+}
+.environment_li img
+{
+    border-radius:15px;
+}
